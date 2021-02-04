@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+user_guide/_book
+user_guide/packages.bib
+user_guide/_bookdown_files
